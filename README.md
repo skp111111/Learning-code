@@ -1,2 +1,2 @@
 # Learning-code
-yes i am learing github
+yes i am learing git with github
